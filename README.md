@@ -26,13 +26,13 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.5 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9 kph</td><td>6.8 kph</td><td>3.6 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>5.8 kph</td><td>9.4 kph</td><td>6.5 kph</td><td>3.6 kph</td>
+        <td>6.5 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9 kph</td><td>6.8 kph</td><td>3.2 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>5.8 kph</td><td>9.4 kph</td><td>6.5 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-09-24T07:21:03Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-24T08:25:25Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
