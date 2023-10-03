@@ -33,6 +33,6 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2023-10-03T17:24:56Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-03T18:29:36Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
