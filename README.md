@@ -22,17 +22,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21 °C</td><td>20.4 °C</td><td>19.9 °C</td><td>19.4 °C</td><td>19.1 °C</td><td>19 °C</td><td>18.9 °C</td><td>20.8 °C</td><td>24.8 °C</td><td>27.2 °C</td><td>29.3 °C</td><td>30.9 °C</td><td>32 °C</td><td>32.6 °C</td><td>32.9 °C</td><td>32.7 °C</td><td>31.4 °C</td><td>26.7 °C</td><td>25 °C</td><td>24.1 °C</td><td>23.6 °C</td><td>23.2 °C</td><td>22.5 °C</td><td>21.7 °C</td>
+        <td>20.9 °C</td><td>20.2 °C</td><td>19.7 °C</td><td>19.4 °C</td><td>19.2 °C</td><td>19 °C</td><td>18.7 °C</td><td>20.7 °C</td><td>24.4 °C</td><td>26.9 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.7 °C</td><td>32.3 °C</td><td>32.6 °C</td><td>32.4 °C</td><td>31.1 °C</td><td>26.7 °C</td><td>24.8 °C</td><td>23.9 °C</td><td>23.3 °C</td><td>22.9 °C</td><td>22.3 °C</td><td>21.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>6.1 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>7.6 kph</td>
+        <td>7.9 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.3 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>9 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-11T21:21:34Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
+*Updated at: 2023-10-11T22:26:48Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
