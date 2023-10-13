@@ -2,9 +2,9 @@
 
 `Chandigarh, India - 14/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain possible
+Sunny
 
 
 <table>
@@ -33,6 +33,6 @@ Patchy rain possible
 
 <div align="right">
 
-*Updated at: 2023-10-13T22:27:17Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
+*Updated at: 2023-10-13T23:22:49Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
