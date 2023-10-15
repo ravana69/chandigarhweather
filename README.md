@@ -26,13 +26,13 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>10.4 kph</td><td>14 kph</td><td>1.4 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>5.8 kph</td>
+        <td>6.8 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>10.4 kph</td><td>14 kph</td><td>1.4 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-15T03:23:13Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
+*Updated at: 2023-10-15T04:28:40Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
