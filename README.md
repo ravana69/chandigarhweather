@@ -2,9 +2,9 @@
 
 `Chandigarh, India - 16/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain possible
 
 
 <table>
@@ -33,6 +33,6 @@ Moderate rain
 
 <div align="right">
 
-*Updated at: 2023-10-15T22:25:57Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
+*Updated at: 2023-10-15T23:22:25Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
