@@ -26,13 +26,13 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>4 kph</td><td>2.9 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>5.4 kph</td><td>9 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>6.8 kph</td>
+        <td>5.4 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>5.4 kph</td><td>9 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-20T02:29:15Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
+*Updated at: 2023-10-20T03:23:26Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
