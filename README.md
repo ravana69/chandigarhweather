@@ -1,6 +1,6 @@
 
 
-`Chandigarh, India - 25/10/2023`
+`Chandigarh, India - 26/10/2023`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -22,17 +22,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.8 °C</td><td>18.5 °C</td><td>18.2 °C</td><td>17.8 °C</td><td>17.6 °C</td><td>17.6 °C</td><td>17.4 °C</td><td>19.1 °C</td><td>23.1 °C</td><td>25.8 °C</td><td>27.6 °C</td><td>29.1 °C</td><td>30.2 °C</td><td>30.9 °C</td><td>30.8 °C</td><td>30.6 °C</td><td>29.4 °C</td><td>24.7 °C</td><td>22.8 °C</td><td>21.7 °C</td><td>21 °C</td><td>20.6 °C</td><td>20.3 °C</td><td>19.9 °C</td>
+        <td>19.6 °C</td><td>19.2 °C</td><td>18.7 °C</td><td>18.2 °C</td><td>17.9 °C</td><td>17.6 °C</td><td>17.2 °C</td><td>18.7 °C</td><td>23 °C</td><td>25.9 °C</td><td>28.1 °C</td><td>29.8 °C</td><td>31 °C</td><td>31.5 °C</td><td>31.6 °C</td><td>31.2 °C</td><td>29.6 °C</td><td>24.7 °C</td><td>22.6 °C</td><td>21.4 °C</td><td>21.1 °C</td><td>20.8 °C</td><td>20.4 °C</td><td>19.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5 kph</td><td>3.6 kph</td><td>4 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>8.6 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>5 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>8.6 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>13.7 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>9 kph</td><td>9 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-25T18:27:24Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
+*Updated at: 2023-10-25T19:21:07Z - by **[ravana69/weather-forecast](https://github.com/ravana69/weather-forecast)***
 
 </div>
